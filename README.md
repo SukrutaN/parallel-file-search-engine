@@ -1,4 +1,4 @@
-# Parallel File Search Engine
+cd # Parallel File Search Engine
 
 A high-performance, multithreaded file indexing and search engine built in Java 21.  
 Index a codebase once — then search across thousands of files in milliseconds.
