@@ -1,0 +1,11 @@
+D:\Projects\searchEngine\parallel-search-engine\src\main\java\com\fileSearch\cli\CommandProcessor.java
+D:\Projects\searchEngine\parallel-search-engine\src\main\java\com\fileSearch\discovery\FileDiscoverer.java
+D:\Projects\searchEngine\parallel-search-engine\src\main\java\com\fileSearch\dispatcher\TaskDispatcher.java
+D:\Projects\searchEngine\parallel-search-engine\src\main\java\com\fileSearch\index\IndexSnapshot.java
+D:\Projects\searchEngine\parallel-search-engine\src\main\java\com\fileSearch\index\IndexStore.java
+D:\Projects\searchEngine\parallel-search-engine\src\main\java\com\fileSearch\index\InvertedIndex.java
+D:\Projects\searchEngine\parallel-search-engine\src\main\java\com\fileSearch\Main.java
+D:\Projects\searchEngine\parallel-search-engine\src\main\java\com\fileSearch\metrics\MetricsCollector.java
+D:\Projects\searchEngine\parallel-search-engine\src\main\java\com\fileSearch\model\SearchResult.java
+D:\Projects\searchEngine\parallel-search-engine\src\main\java\com\fileSearch\parser\ContentParser.java
+D:\Projects\searchEngine\parallel-search-engine\src\main\java\com\fileSearch\search\SearchEngine.java
